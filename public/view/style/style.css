@@ -1,0 +1,20 @@
+div.navbar-header{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+li {
+    display: inline-block;
+}
+
+li a {
+    display: block;
+    color:rgb(183, 190, 204);
+    text-align: center;
+    margin: 4px;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: bold;
+    
+}
+

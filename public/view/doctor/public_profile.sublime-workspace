@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"css",
+				"css"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"overflow",
+				"overflow-y\tproperty"
+			],
+			[
+				"ove",
+				"overflow-x\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"in",
+				"inline-table\tdisplay"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"sourov",
+				"sourov1710"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"db",
+				"dbUsername"
+			],
+			[
+				"mys",
+				"mysqli_connect"
+			],
+			[
+				"ph",
+				"php"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"strr",
+				"strrev"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"php",
+				"phpinfo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/ecommerce/view/index.php",
+		"/C/xampp/htdocs/imagetopage/style1.css",
+		"/C/xampp/htdocs/imagetopage/style.css",
+		"/C/xampp/htdocs/imagetopage/index.html",
+		"/C/xampp/htdocs/ecommerce2/Ecommerce Solutions/admin/header.php",
+		"/C/xampp/htdocs/ecommerce2/Ecommerce Solutions/admin/index.html",
+		"/D/htdocs/index.html",
+		"/D/htdocs/login.html",
+		"/C/xampp/htdocs/ecombs4/control/signupfunction.php",
+		"/C/xampp/htdocs/ecombs4/control/alllist.php",
+		"/C/xampp/htdocs/ecombs4/view/products.php",
+		"/C/Users/Sourov/Downloads/GlobalLandTemperatures_GlobalLandTemperaturesByMajorCity.csv",
+		"/C/xampp/htdocs/ecombs4/index.php",
+		"/C/xampp/htdocs/ecombs4/control/dbh.inc.php",
+		"/C/xampp/htdocs/bs4/styles/css/bootstrap.min.css",
+		"/C/xampp/htdocs/bs4/index.html",
+		"/C/xampp/htdocs/learningproject/calculator.php",
+		"/C/xampp/htdocs/includes/databasecode.sql",
+		"/C/xampp/htdocs/includes/dbh.inc.php",
+		"/C/xampp/htdocs/includes/signup.inc.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/include/index.php",
+		"/C/xampp/htdocs/include/dbh.inc.php",
+		"/C/xampp/htdocs/include/updatedb.php",
+		"/C/xampp/htdocs/learningproject/index.php",
+		"/C/xampp/htdocs/learningproject/databaselearning.php",
+		"/C/xampp/htdocs/learningproject/date.php",
+		"/C/xampp/htdocs/include/data.php",
+		"/C/xampp/htdocs/include/date.php",
+		"/C/xampp/htdocs/phplessons/index.php",
+		"/C/xampp/htdocs/learningproject/data.php",
+		"/C/xampp/htdocs/blood-fighter/web/functions/function.php",
+		"/C/xampp/htdocs/blood-fighter/web/functions/chart_function.php",
+		"/C/xampp/htdocs/doctor and hospital/web/functions/donor_function.php",
+		"/C/xampp/htdocs/blood-fighter/db/Dump20180513.sql",
+		"/C/xampp/htdocs/doctor and hospital/web/functions/logout_function.php",
+		"/C/xampp/htdocs/dashboard/phpinfo.php",
+		"/C/xampp/htdocs/doctor and hospital/public/view/auth/login.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "public_profile.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

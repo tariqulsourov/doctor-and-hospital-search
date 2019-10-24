@@ -1,0 +1,170 @@
+.body{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+li {
+    display: inline-block;
+}
+
+li a {
+    display: block;
+    color:rgb(0, 191, 255);
+    text-align: center;
+    margin: 4px;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-style: normal;
+    
+    
+}
+
+.dropbtn {
+    display: inline-block;
+    color:rgb(44,44,44);
+    text-align: center;
+    margin: 4px;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-style:normal;
+    
+    
+}
+li a:link{
+    color: rgb(256, 256, 256);
+}
+li a:visited{
+    color: rgb(206, 0, 0);
+}
+/*TO COLOR li when hover,tag under dropdown class, class under dropbtn class*/
+li a:hover{
+    color:rgb(256, 256, 256);
+} 
+.dropdown:hover{
+    color:rgb(44,44,44);
+}
+.dropbtn:hover{
+    color:rgb(44,44,44);
+}
+
+
+
+.dropdown-content a {
+    color: rgb(255, 255, 255);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+.dropdown-content a:hover {background-color:rgb(68, 12, 71);}
+.dropdown-content {
+    display: block;
+}
+.sbanner{
+    margin-left: 0%;
+    margin-right: 0%;
+
+
+}
+.dbanner a img{
+    height: 600px;
+    width: 1180px;
+    position: absolute;
+    -webkit-transition:opacity 2s ease-in-out;
+    -moz-transition:opacity 2s ease-in-out;
+    -o-transition:opacity 2s ease-in-out;
+
+}
+/*.dbanner img.wide{
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+}
+.dbanner img.tall{
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+}*/
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:rgb(183, 190, 204);
+    min-width: 100px;
+}
+@keyframes abc{
+    0% {
+  opacity:1;
+}
+    13% {
+  opacity:1;
+}
+    17% {
+  opacity:0;
+}
+    95%{
+        opacity: 0;
+    }
+    100% {
+  opacity:0;
+}
+}
+
+.dbanner a img.fimg{
+    animation-name: abc;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 24s;
+    animation-direction: alternate;
+    animation-delay: 0s;
+}
+.dbanner a img.eimg{
+    animation-name: abc;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 24s;
+    animation-direction: alternate;
+    animation-delay: 5s;
+}
+.dbanner a img.dimg{
+    animation-name: abc;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 24s;
+    animation-direction: alternate;
+    animation-delay: 10s;
+}
+.dbanner a img.cimg{
+    animation-name: abc;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 24s;
+    animation-direction: alternate;
+    animation-delay: 15s;
+}
+.dbanner a img.bimg{
+    animation-name: abc;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 24s;
+    animation-direction: alternate;
+    animation-delay: 20s;
+}
+.foter{
+    margin-top: 10%;
+    margin-bottom: 0%;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(83, 87, 94);
+}
+.leftside{
+    margin-top: 30%;
+    margin-bottom: 2%;
+    height: 600px;
+    width: 150px;
+    background-color: rgb(83, 87, 94);
+}
+.desp1{position: absolute;
+    margin-top: 650px;
+    width: 1000px;
+    text-align: left;}
